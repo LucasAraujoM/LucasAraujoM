@@ -100,8 +100,7 @@ Currently pursuing a **Bachelor’s degree in Information Technology** while con
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasGabrielAraujo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielAraujo&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LucasAraujoM)](https://git.io/streak-stats)
 
 ---
 
