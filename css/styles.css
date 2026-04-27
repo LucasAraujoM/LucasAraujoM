@@ -696,9 +696,13 @@ footer {
     }
 
     nav {
-        gap: 1.5rem;
+        gap: 1rem;
         flex-wrap: wrap;
         justify-content: center;
+    }
+
+    #hero {
+        padding-top: 16rem;
     }
 
     #hero h1 {
